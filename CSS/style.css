@@ -1,0 +1,8 @@
+.jumbotron {
+    height: 400px;
+}
+.speaker-img {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+}
