@@ -1,0 +1,10 @@
+.jumbotron {
+    height: 400px;
+    background-image: url("/img/image-space.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.speaker-img {
+    width: 90%;
+    height: auto;
+}
